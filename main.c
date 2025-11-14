@@ -1,3 +1,5 @@
+##NAME JAYA NAGA VARDHAN
+## REGISTRATION NO:AP25110090139
 #include <stdio.h>
 
 int main() {
@@ -110,4 +112,5 @@ int main() {
     }
 
     return 0;
+
 }
